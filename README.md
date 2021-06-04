@@ -11,6 +11,7 @@ YouTube : Osderda
 # Şuanki Versiyon : 9
 ----------------------
 V9 Yenilikleri
+
 ⦁	PireX Repair Tool Düzeltildi.(Artık 
 Onarma Aracı Sorunsuz Çalışacak)
 
@@ -26,4 +27,4 @@ Setupla İndirmek Zorunda Değilsiniz)
 
 Yeni versiyonlar için :  https://osderdaoyun.weebly.com
 
-Osderda tarafından verilen programları kullandığımı kabul ediyorum
+Osderda tarafından verilen programları kullandığına kabul ediyorsunuz!
