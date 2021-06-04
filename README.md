@@ -1,4 +1,6 @@
-# Bu uygulamayı kurduğunuzda Osderda tarafından verilen uygulamaları kullandığınızı kanıtlamış olucaksınız!
+# PireX Roblox Hack V9
+
+Bu uygulamayı kurduğunuzda Osderda tarafından verilen uygulamaları kullandığınızı kanıtlamış olucaksınız!
 
 Yapımcı : Osderda
 
@@ -19,9 +21,9 @@ Setupla İndirmek Zorunda Değilsiniz)
 ⦁	Windows sürüm kontrolü düzeltildi.
 
 ⦁	Bağzı Hatalar Giderildi.
+
 ----------------------------------------
 
 Yeni versiyonlar için :  https://osderdaoyun.weebly.com
-
 
 Osderda tarafından verilen programları kullandığımı kabul ediyorum
